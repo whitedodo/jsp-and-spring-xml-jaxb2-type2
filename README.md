@@ -27,9 +27,11 @@ XML출력을 작성하였다.
 ##### 자바 버전(Java-Version): OpenJDK-14.0.2 (https://openjdk.java.net/)
 
 ### 1. 소개(Description)
-##### 1. 해당 프로젝트는 Spring Framework 4.2.4 Releases, 순수 JSP/Servlet 기반에서
-#####    Library를 적용하여 작성하였다.
-#####    (The project was developed by applying Library based on Spring Framework  
-#####     4.2.4 Releases, pure JSP/Servlet.)
+##### 1. 해당 프로젝트는 Spring Framework 4.2.4 Releases, 순수 JSP/Servlet 기반에서 Library를 적용하여 작성하였다.
+#####    (The project was developed by applying Library based on Spring Framework 4.2.4 Releases, pure JSP/Servlet.)
 ##### 2. Jaxb2외 4개 라이브러리를 적용하여 구현하였다.
 #####    (Implemented by applying 4 libraries other than Jaxb2.)
+
+### 2. 시연(Practice)
+##### 1. JSP/Servlet - XML Convertor(Jaxb2), https://youtu.be/xBlNM_FuSL4, Accessed by 2020-10-11, Last Modified 2020-10-11.
+##### 2. Spring Framework 4.2.4 - VO를 XML로 출력(Jaxb2), https://youtu.be/uBs_rou6cuw, Accessed by 2020-10-11, Last Modified 2020-10-11.
