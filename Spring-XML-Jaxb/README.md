@@ -33,3 +33,6 @@ XML출력을 작성하였다.
 #####     4.2.4 Releases, pure JSP/Servlet.)
 ##### 2. Jaxb2외 4개 라이브러리를 적용하여 구현하였다.
 #####    (Implemented by applying 4 libraries other than Jaxb2.)
+
+### 2. 시연(Practice)
+##### 1. Spring Framework 4.2.4 - VO를 XML로 출력(Jaxb2), https://youtu.be/uBs_rou6cuw, Accessed by 2020-10-11, Last Modified 2020-10-11.
