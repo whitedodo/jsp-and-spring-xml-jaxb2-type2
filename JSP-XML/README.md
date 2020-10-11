@@ -30,3 +30,6 @@ XML출력을 작성하였다.
 #####    (The project was developed by applying Library based on pure JSP/Servlet.)
 ##### 2. Jaxb2외 4개 라이브러리를 적용하여 구현하였다.
 #####    (Implemented by applying 4 libraries other than Jaxb2.)
+
+### 2. 시연(Practice)
+##### 1. JSP/Servlet - XML Convertor(Jaxb2), https://youtu.be/xBlNM_FuSL4, Accessed by 2020-10-11, Last Modified 2020-10-11.
