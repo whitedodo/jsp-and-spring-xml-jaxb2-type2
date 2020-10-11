@@ -42,7 +42,7 @@ public class HomeController {
 		return "home";
 	}
 	
-	@RequestMapping(value = "/dataTransform", produces="application/xml")
+	@RequestMapping(value = "/dataTransform", produces="application/xml;charset=UTF-8")
 	@ResponseBody
 	public BoardListVO dataTransform(Locale locale, Model model) {
 		
